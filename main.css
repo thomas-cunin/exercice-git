@@ -5,4 +5,10 @@ body {
   margin: 6px;
 }
 
+main {
+  height: 500px;
+  width: 400px;
+  background-color: blue;
+  border: 1px solid black;
+}
 // fin partie de Thomas
