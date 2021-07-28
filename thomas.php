@@ -1,2 +1,2 @@
 <?php
-echo 'salut à tous'; ?>
+echo 'salut à tous'; 
