@@ -1,14 +1,14 @@
 // Partie de Thomas
 
 body {
-  backgroud-color: red;
+  backgroud-color: yellow;
   margin: 6px;
 }
 
 main {
-  height: 500px;
-  width: 400px;
-  background-color: blue;
+  height: 50rem;
+  width: 50rem;
+  background-color: orange;
   border: 1px solid black;
 }
 // fin partie de Thomas
